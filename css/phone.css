@@ -1,0 +1,46 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home */
+#home{
+    overflow:hidden;
+    padding: 3px 14px;
+    /* padding-bottom: 4px; */
+}
+#home p{
+    font-size: 21px;
+}
+#home h1{
+    font-size: 40px;
+}
+
+
+/* Services */
+.boxes{
+    flex-direction: column;
+}
+/* Clients */
+
+
+/* Contact us  */
+
+
+/* Footer  */
+
+/* Utilities */
+h-primary{
+    font-size: 30px;
+}
+
+.btn {
+    /* padding: 6px 20px;
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    margin: 17px; */
+    font-size: 1.09rem;
+    /* border-radius: 14px;
+    cursor: pointer; */
+}
